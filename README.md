@@ -29,15 +29,15 @@
 
 ## 回路図
 
-[Schematics](/Hardware/pikothru_schematic.pdf)
+[Schematics](/hardware/pikothru_schematic.pdf)
 
 ## 基板パターン図
 
-[PCB Pattern](/Hardware/pikoturu_pattern.pdf)
+[PCB Pattern](/hardware/pikoturu_pattern.pdf)
 
 ## 部品配置図
 
-![PartsPlacementChart](/image/Pikothru_parts_place.png)
+![PartsPlacementChart](/image/pikothru_parts_place.png)
 
 ## 部品実装上の注意
 ### ダイオード
