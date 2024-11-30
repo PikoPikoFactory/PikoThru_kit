@@ -33,7 +33,7 @@
 
 ## 基板パターン図
 
-[PCB Pattern](/hardware/pikoturu-pattern.pdf)
+[PCB Pattern](/hardware/pikothru-pattern.pdf)
 
 ## 部品配置図
 
