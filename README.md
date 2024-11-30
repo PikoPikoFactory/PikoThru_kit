@@ -18,7 +18,7 @@
 |J1, J2, J3, J4, J5, J6, J7, J8, J11, 	9	3.5mmステレオジャック |
 |J9|1|USB Type-C コネクタ|
 |J10|1|JST XHコネクタ|
-|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R20, 	17	抵抗 220Ω
+|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R20|17|抵抗 220Ω|
 |R17, R18|2|5.1kΩ|
 |R19|1|1kΩ|
 |R21|1|100kΩ|
@@ -51,30 +51,5 @@
 
 ![PartsPlacementImage](/image/diode.PNG)
 
-### U1 Arduino Nano Every
-
-- U1 Arduino Nano Every はUSBコネクタが外側になるように取り付けてください。部品配置図を参考にしてください。
-
-### U2 5V出力昇圧DC/DCコンバーターキット
-
-- U2 5V出力昇圧DC/DCコンバーターキットは以下の写真の方向で取り付けてください。
-
-![PartsPlacementImage](/image/IMG_5643.JPG)
 
 
-
-
-
-## ソフトウェア
-- Arduino IDEベースです。
-- MIDIライブラリが必要です。MIDIライブラリは多種リリースされていますが、https://github.com/FortySevenEffects/arduino_midi_library を使用しています。
-
-### サンプルコード
-- Arduino Nano Every用です。
-- ファンクションキーと鍵盤キーの同時押しで、MIDI CH変更や、Program Change等の送信が可能です。下図を参照ください。
-- 2023/10/28 Note NoのBug Fixしました
- 
-
-[PikoKey_V1_1.ino](/Software/PikoKey_V1_1.ino)
-
-![FunctionImage](/image/function.png)
