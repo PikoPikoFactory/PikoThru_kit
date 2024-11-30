@@ -54,4 +54,4 @@
 - 写真の作例ではソケットを使っていますが、付属しておりません。直接ハンダ付けに不安のある人は、別途入手して、使用してください。
 - 取付方向が上下逆になりますので注意してください。
 
-![PartsPlacementImage](/image/ic.jpg)
+![PartsPlacementImage](/image/ic.png)
