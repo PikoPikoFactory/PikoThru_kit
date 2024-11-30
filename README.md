@@ -42,10 +42,10 @@
 ## 部品実装上の注意
 ### ダイオード
 - ダイオードは極性があります。方向に注意してください。
-- D5は線が付いている方向がカソード(K)です。
+- D1,D2,D4は線が付いている方向がカソード(K)です。
 
-![PartsPlacementImage](/image/IMG_5644.JPG)
-
+![PartsPlacementImage](/image/d1d2.jpg)
+![PartsPlacementImage](/image/d4.jpg)
 
 - LED(D1～D4)はリード線の短い方がカソード(K)です。以下の図を参考にしてください。
 
