@@ -3,8 +3,7 @@
 ![outlineiimage](/image/pikothru.png)
 
 ## About this page
-- 
-- 
+- 1 in 8 turu 小型MIDIスルーボックス PikoThru 組み立てキットの情報ページです。
 
 ## Parts List
 
@@ -55,4 +54,4 @@
 - 写真の作例ではソケットを使っていますが、付属しておりません。直接ハンダ付けに不安のある人は、別途入手して、使用してください。
 - 取付方向が上下逆になりますので注意してください。
 
-
+![PartsPlacementImage](/image/ic.jpg)
