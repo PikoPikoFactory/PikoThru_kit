@@ -47,7 +47,7 @@
 ![PartsPlacementImage](/image/d1d2.jpg)
 ![PartsPlacementImage](/image/d4.jpg)
 
-- LED(D1～D4)はリード線の短い方がカソード(K)です。以下の図を参考にしてください。
+- LED(D3)はリード線の短い方がカソード(K)です。以下の図を参考にしてください。
 
 ![PartsPlacementImage](/image/diode.PNG)
 
